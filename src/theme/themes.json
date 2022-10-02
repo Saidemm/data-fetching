@@ -1,0 +1,48 @@
+{
+  "lightMode": {
+    "name": "Light Mode",
+    "colors": {
+      "body": {
+        "background": "white",
+        "text": "black"
+      },
+      "mainPane": {
+        "background": "#E7E7E7"
+      },
+      "listingPane": {
+        "background": "white"
+      },
+      "listingRow": {
+        "text": "blue"
+      },
+      "button": {
+        "text": "black",
+        "border": "default"
+      }
+    }
+  },
+  "darkMode": {
+    "name": "Dark Mode",
+    "colors": {
+      "body": {
+        "background": "#323232",
+        "text": "#CBC855"
+      },
+      "mainPane": {
+        "background": "#595959"
+      },
+      "listingPane": {
+        "background": "#323232"
+      },
+      "listingRow": {
+        "text": "#78C991"
+      },
+      "button": {
+        "background": "#323232",
+        "backgroundHover": "#595959",
+        "text": "#CBC855",
+        "border": "white"
+      }
+    }
+  }
+}
